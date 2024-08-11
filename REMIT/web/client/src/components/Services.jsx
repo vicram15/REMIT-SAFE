@@ -37,19 +37,19 @@ const Services = () => (
           color="bg-[#2952E3]"
           title="Security gurantee"
           icon={<BsShieldFillCheck fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="We guarantee top-notch security. Your privacy is our priority, and we continuously enhance our systems to protect your data."
         />
         <ServiceCard
           color="bg-[#8945F8]"
           title="Best exchange rates"
           icon={<BiSearchAlt fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="Benefit from the best exchange rates in the market. We ensure competitive pricing while maintaining the highest quality standards"
         />
         <ServiceCard
           color="bg-[#F84550]"
           title="Fastest transactions"
           icon={<RiHeart2Fill fontSize={21} className="text-white" />}
-          subtitle="Security is guranteed. We always maintain privacy and maintain the quality of our products"
+          subtitle="Experience lightning-fast transactions. We focus on speed without compromising on security or service quality"
         />
       </div>
     </div>
